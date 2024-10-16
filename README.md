@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-<!--
-**drsubirghosh2008/drsubirghosh2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+my name is Dr. Subir Ghosh.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python for Data Science project
